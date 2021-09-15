@@ -1,3 +1,4 @@
+
 package com.thiagowill.cursomc.domain;
 
 import java.io.Serializable;
